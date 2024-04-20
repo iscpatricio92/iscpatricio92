@@ -1,8 +1,8 @@
 
 # Hi there 👋,  I'm Patricio Gómez
 
-<table>
-    <tr>
+<table align="center"> 
+    <tr border: none;>
         <td style="width: 50%;">
         I am Sr fullStack developer & Tech Lead
 <br><br>
