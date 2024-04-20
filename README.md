@@ -1,21 +1,21 @@
 
-# <h1>Hi there 👋 I am Patricio Gómez</h1>
-<div align="left" >
+# Hi there 👋,  I'm Patricio Gómez
+<div style="display:flex;flex-direction: row;flex-wrap: wrap; width: 100%;">
+<div style=" display: flex;flex-direction: column;flex: 1;">
 I am Sr fullStack developer & Tech Lead
-<br />
+<br><br>
+I have more than 9 years of experience in web development, recently in the financial-fintech sector. As a tech lead, I am to cultivate a collaborative culture within engineering. I enjoy facilitating knowledge sharing between team members and helping others progress in their careers. In addition to technical excellence, developing soft skills is equally important to me. Effective communication, empathy, and emotional intelligence are vital for resolving conflicts, fostering understanding, and maintaining high morale
 
-<!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://linkedin.com/in/patricio-gomez)**
-- 📫 How to reach me **isc.patricio@gmail.com**
 - 📝 I studied at Tecnológico Nacional de México
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
 	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
  </div>
- <div align="right" >
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <div  style=" display: flex;flex-direction: column;flex: 1;">
+  <img height="270px" alt="guy" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  </div>
-<br><br>
+ </div>
+<br>
 
 ## 💻 Technologies 
 
@@ -77,7 +77,7 @@ I am Sr fullStack developer & Tech Lead
 </p>
 
 
-<br><br>
+<br>
 
 ## 🚥 Activity
 
@@ -130,4 +130,4 @@ I am Sr fullStack developer & Tech Lead
 
 <br>
 
-Credit:[iscpatricio92](https://github.com/iscpatricio92) Last Edit on 19/04/2024
+Credit: [iscpatricio92](https://github.com/iscpatricio92) Last Edit on 19/04/2024
