@@ -1,9 +1,9 @@
 
 # Hi there 👋,  I'm Patricio Gómez
 
-<table align="center"> 
+<table align="center" border: none;> 
     <tr border: none;>
-        <td style="width: 50%;">
+        <td style="width: 50%;" border: none;>
         I am Sr fullStack developer & Tech Lead
 <br><br>
 I have more than 9 years of experience in web development, recently in the financial-fintech sector. As a tech lead, I am to cultivate a collaborative culture within engineering. I enjoy facilitating knowledge sharing between team members and helping others progress in their careers. In addition to technical excellence, developing soft skills is equally important to me. Effective communication, empathy, and emotional intelligence are vital for resolving conflicts, fostering understanding, and maintaining high morale
@@ -12,7 +12,7 @@ I have more than 9 years of experience in web development, recently in the finan
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
 	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge" /></a>        </td>
-      <td style="width: 50%;">
+      <td style="width: 50%;" border: none;>
       <img height="270px" alt="guy" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
       </td>
     </tr>
