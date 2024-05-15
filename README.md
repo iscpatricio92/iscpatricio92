@@ -118,7 +118,7 @@ I have more than 9 years of experience in web development, recently in the finan
 
 ### 🐍
 
-!["iscpatricio92"]("https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg")
+![Alt]("https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg" "iscpatricio92")
 
 ## 🌐 Connect with me
 
