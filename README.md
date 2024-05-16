@@ -104,7 +104,7 @@ I have more than 9 years of experience in web development, recently in the finan
 ## 📊 GitHub Stats
 
 !["iscpatricio92"](https://github-readme-stats.vercel.app/api?username=iscpatricio92&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-![stats](https://github-contributor-stats.vercel.app/api?username=iscpatricio92&limit=6&theme=onedark&combine_all_yearly_contributions=true&locale=en)
+![stats](https://github-contributor-stats.vercel.app/api?username=iscpatricio92&langs_count=6&theme=onedark&combine_all_yearly_contributions=true&locale=en)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscpatricio92&hide_border=true&include_all_commits=true&count_private=true&layout=normal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 !["iscpatricio92"](https://github-readme-streak-stats.herokuapp.com/?user=iscpatricio92&theme=onedark&hide_border=true)
 ![trophies](https://github-profile-trophy.vercel.app/?username=iscpatricio92&theme=algolia&no-frame=false&no-bg=true&margin-w=0)
