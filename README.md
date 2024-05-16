@@ -103,18 +103,16 @@ I have more than 9 years of experience in web development, recently in the finan
 
 ## 📊 GitHub Stats
 
-!["iscpatricio92"](https://github-readme-stats.vercel.app/api?username=iscpatricio92&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-!["iscpatricio92"](https://github-readme-streak-stats.herokuapp.com/?user=iscpatricio92&theme=dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscpatricio92&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-!["iscpatricio92"](https://github-contributor-stats.vercel.app/api?username=iscpatricio92&limit=5&theme=dark&combine_all_yearly_contributions=true&locale=en)
+!["iscpatricio92"](https://github-readme-stats.vercel.app/api?username=iscpatricio92&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+![stats](https://github-contributor-stats.vercel.app/api?username=iscpatricio92&limit=6&theme=onedark&combine_all_yearly_contributions=true&locale=en)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscpatricio92&hide_border=true&include_all_commits=true&count_private=true&layout=normal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+!["iscpatricio92"](https://github-readme-streak-stats.herokuapp.com/?user=iscpatricio92&theme=onedark&hide_border=true)
+![trophies](https://github-profile-trophy.vercel.app/?username=iscpatricio92&theme=algolia&no-frame=false&no-bg=true&margin-w=0)
 
 ## Recent activity
 
 ![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-## 🏆 GitHub Trophies
-
-!["iscpatricio92"](https://github-profile-trophy.vercel.app/?username=iscpatricio92&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🐍
 
