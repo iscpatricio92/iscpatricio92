@@ -127,6 +127,7 @@ I have more than 9 years of experience in web development, recently in the finan
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/iscpatricio)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9591889/patricio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailTo:isc.patricio@gmail.com)
+[!Platzi](https://platzi.com/p/iscpatricio/)
 
 ---
 
