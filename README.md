@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Patricio Gómez
 
-<p align="left">
-  <a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub followers" /></a>
-</p>
-
 Senior Full Stack Engineer with 12 years of experience building web products, most recently in fintech and logistics.
 Former Engineering Team Lead at Nowports (LatAm logistics unicorn), where I managed 9 direct reports with full people responsibility.
 Currently on a two-year engagement with AB InBev, working primarily with TypeScript, Node.js, and AWS.
@@ -29,12 +25,15 @@ I care deeply about collaborative engineering culture, knowledge sharing, and he
 
 ## Recent activity
 
-![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
+  <img alt="Patricio's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=24292F&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=24292F&area=true&hide_border=true" />
+</picture>
 
-
-### 🐍
-
-![Snake animation](https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🌐 Connect with me
 
